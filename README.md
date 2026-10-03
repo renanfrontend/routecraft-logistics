@@ -1,5 +1,7 @@
 # Routecraft
 
+🌐 **[Abrir demonstração / Live demo](https://renan-routecraft-logistics.renan-gabba.chatgpt.site)**
+
 Planeje o caminho da entrega. Simulador de rotas com distância geográfica e comparação de ordem de entregas.
 
 Projeto autoral demonstrativo preparado para o portfólio de **Renan Augusto dos Santos**. Não possui backend, autenticação ou dados de produção.
